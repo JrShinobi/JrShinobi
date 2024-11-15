@@ -46,7 +46,7 @@ I’m passionate about solving problems and optimizing workflows through effecti
 
 ### 🌍 **Languages**  
 - **Arabic:** Native  
-- **French:** Advanced  
+- **French:** Intermediate  
 - **English:** Intermediate  
 
 ---
