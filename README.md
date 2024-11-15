@@ -1,6 +1,6 @@
 👋 Hi, I’m @JrShinobi  
 - 👀 I’m interested in web development.  
-- 🌱 I’m currently learning advanced backend technologies and database management.  
+- 🌱 I’m currently learning frontend technologies and database management.  
 - 💞️ I’m looking to collaborate on innovative web projects that make an impact.  
 - 📫 How to reach me:  
   - 📧 [jarroudoussama@gmail.com](mailto:jarroudoussama@gmail.com)  
