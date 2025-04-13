@@ -5,8 +5,7 @@
 - 📫 How to reach me:  
   - 📧 [jarroudoussama@gmail.com](mailto:jarroudoussama@gmail.com)  
   - 📞 +212 695 662096  
-  - 💼 [LinkedIn](https://linkedin.com/in/jarroud)  
-- 😄 Pronouns: He/Him  
+  - 💼 [LinkedIn](https://linkedin.com/in/jarroud)    
 - ⚡ Fun fact: I love working with cutting-edge frameworks like Next.js and Prisma!  
 
 ---
