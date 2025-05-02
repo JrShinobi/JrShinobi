@@ -1,20 +1,18 @@
 👋 Hi, I’m @JrShinobi  
 - 👀 I’m interested in web development.  
-- 🌱 I’m currently learning frontend technologies and database management.  
-- 💞️ I’m looking to collaborate on innovative web projects that make an impact.  
+- 🌱 I’m currently learning data science and Artificial intelligence.   
 - 📫 How to reach me:  
   - 📧 [jarroudoussama@gmail.com](mailto:jarroudoussama@gmail.com)  
   - 📞 +212 695 662096  
-  - 💼 [LinkedIn](https://linkedin.com/in/jarroud)    
-- ⚡ Fun fact: I love working with cutting-edge frameworks like Next.js and Prisma!  
-
+  - 💼 [LinkedIn](https://linkedin.com/in/jarroud)
+    
 ---
 
 ### 💼 **Professional Summary**  
 Motivated and versatile junior web developer with strong proficiency in:  
-- **Languages:** JavaScript, PHP, TypeScript, SQL, HTML, CSS, and more.  
-- **Frameworks/Libraries:** React.js, Next.js, Tailwind CSS, Node.js, Redux Toolkit.  
-- **Databases:** MySQL, PostgreSQL, Prisma, SQL Server.  
+- **Languages:** JavaScript, PHP, TypeScript, JAVA, and more.  
+- **Frameworks/Libraries:** Next.js, Tailwind CSS, Redux Toolkit.  
+- **Databases:**  PostgreSQL, Prisma, SQL Server.  
 
 I’m passionate about solving problems and optimizing workflows through effective web applications.
 
